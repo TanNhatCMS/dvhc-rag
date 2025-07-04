@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý ảo về ĐVHC Tây Ninh",
+  "description": "Một trợ lý ảo chuyên trả lời các câu hỏi về đơn vị hành chính cấp tỉnh và cấp xã mới tại tỉnh Tây Ninh, được phát triển bởi TanNhatCMS AI và MrKiệt, sử dụng dữ liệu RAG.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
