@@ -12,7 +12,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "@google/genai": "^2.0.0",
-    "antd": "6.5.0",
+    "antd": "6.5.2",
     "react-markdown": "^10.0.0",
     "remark-gfm": "^4.0.0",
     "react-syntax-highlighter": "^16.0.0"
